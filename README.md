@@ -52,7 +52,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/THEMOHMAYA/MRMOHMAYAMUSIC//blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/TMM-TEAM/MRMOHMAYAMUSIC//blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -64,7 +64,7 @@ THEMOHMAYA/THEMOHMAYA is a ✨ _special_ ✨ repository because its README.md (t
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/THEMOHMAYA/MRMOHMAYAMUSIC && cd MRMOHMAYAMUSIC`
+`git clone https://github.com/TMM-TEAM/MRMOHMAYAMUSIC && cd MRMOHMAYAMUSIC`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
